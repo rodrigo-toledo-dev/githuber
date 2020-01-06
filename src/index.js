@@ -24,6 +24,8 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
+console.tron.log('ola mund');
+
 export default class App extends Component {
     render() {
         return (
