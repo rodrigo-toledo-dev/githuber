@@ -12,7 +12,7 @@ import { colors } from '~/styles';
 
 export default class Welcome extends Component {
   state = {
-    username: 'rodrigo-toledo-dev',
+    username: 'gaearon',
     loading: false,
     error: false,
   }
